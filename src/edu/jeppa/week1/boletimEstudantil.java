@@ -1,3 +1,4 @@
+package edu.jeppa.week1;
 public class boletimEstudantil {
     public static void main(String[] args) {
         // EXEMPLO SEM IDENTAÇÃO:

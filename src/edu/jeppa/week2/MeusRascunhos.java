@@ -1,3 +1,4 @@
+package edu.jeppa.week2;
 public class MeusRascunhos {
    public static void main (String [] args) {
     System.out.print ( "Hello, jeppa, welcome to java's world!" );
